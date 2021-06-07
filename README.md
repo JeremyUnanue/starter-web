@@ -15,6 +15,10 @@ Sample website with plenty of files for demos
 throwing more in this
 this is a simple web project, deployment 
 
+## How to Contribute
+
+please fork this repostitory and then issue pull requests for review
+
 
 ### Copyright
 
