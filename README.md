@@ -14,3 +14,8 @@ Sample website with plenty of files for demos
 
 throwing more in this
 this is a simple web project, deployment 
+
+
+### Copyright
+
+2014 copyright
