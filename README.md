@@ -23,4 +23,4 @@ please fork this repostitory and then issue pull requests for review
 
 ### Copyright
 
-2014 copyright
+2014 copyright all rights reserved
